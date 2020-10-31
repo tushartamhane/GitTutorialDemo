@@ -2,8 +2,8 @@ public class Demo{
 
 public static void main(String []args){
 
-int j=30;
-j=60;
-System.out.println(j);
-System.out.println("I am changing variable as j and changing value");
+int i=20;
+i=40;
+System.out.println(i);
+System.out.println("I am changing variable as i again and changing value");
 }}
