@@ -2,8 +2,10 @@ public class Demo{
 
 public static void main(String []args){
 
-int i=70;
-i=40;
-System.out.println(i);
-System.out.println("I am changing variable as i and changing value");
+
+int j=90;
+j=10;
+System.out.println(j);
+System.out.println("I am changing variable as j again and changing value");
+
 }}
